@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice传递大文件\服务端\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice传递大文件\服务端\WebApplication1\bin\WebApplication1.dll
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice传递大文件\服务端\WebApplication1\bin\WebApplication1.pdb
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice传递大文件\服务端\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice传递大文件\服务端\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice传递大文件\服务端\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\SoftResearch\dotnet\测试大PDF在线打开\TestBigPDFonlineOpen\bin\TestBigPDFonlineOpen.dll.config
+C:\Users\admin\Desktop\SoftResearch\dotnet\测试大PDF在线打开\TestBigPDFonlineOpen\bin\TestBigPDFonlineOpen.dll
+C:\Users\admin\Desktop\SoftResearch\dotnet\测试大PDF在线打开\TestBigPDFonlineOpen\bin\TestBigPDFonlineOpen.pdb
+C:\Users\admin\Desktop\SoftResearch\dotnet\测试大PDF在线打开\TestBigPDFonlineOpen\bin\Aliyun.OSS.dll
+C:\Users\admin\Desktop\SoftResearch\dotnet\测试大PDF在线打开\TestBigPDFonlineOpen\obj\Release\TestBigPDFonlineOpen.csproj.CopyComplete
+C:\Users\admin\Desktop\SoftResearch\dotnet\测试大PDF在线打开\TestBigPDFonlineOpen\obj\Release\TestBigPDFonlineOpen.dll
+C:\Users\admin\Desktop\SoftResearch\dotnet\测试大PDF在线打开\TestBigPDFonlineOpen\obj\Release\TestBigPDFonlineOpen.pdb
