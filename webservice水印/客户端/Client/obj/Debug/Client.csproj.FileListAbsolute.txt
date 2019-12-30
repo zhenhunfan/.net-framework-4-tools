@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice水印\客户端\Client\bin\Debug\Client.exe
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice水印\客户端\Client\bin\Debug\Client.pdb
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice水印\客户端\Client\obj\Debug\Client.exe
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice水印\客户端\Client\obj\Debug\Client.pdb
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice水印\客户端\Client\bin\Debug\Client.exe.config

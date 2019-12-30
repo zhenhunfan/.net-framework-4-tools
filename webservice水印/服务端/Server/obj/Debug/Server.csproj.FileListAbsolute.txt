@@ -1,0 +1,5 @@
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice水印\服务端\Server\bin\Server.dll.config
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice水印\服务端\Server\bin\Server.dll
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice水印\服务端\Server\bin\Server.pdb
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice水印\服务端\Server\obj\Debug\Server.dll
+C:\Users\admin\Desktop\SoftResearch\dotnet\webservice水印\服务端\Server\obj\Debug\Server.pdb
